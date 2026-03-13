@@ -37,7 +37,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "divertimento",
-    "foto": "placeholder.jpg",
+    "foto": "anchoa 00.png",
     "descripcion": "Un bocado donde el equilibrio es el protagonista. Espectacular anchoa calibre 00, carnosa y con el punto exacto de salinidad, reposada sobre una delicada y dulce crema de naranja. Lo culminamos con un vibrante aceite de albahaca fresca que aporta frescor y contraste visual."
   },
   {
@@ -68,7 +68,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": false,
     "categoria": "divertimento",
-    "foto": "placeholder.jpg",
+    "foto": "Albondigas de Ciervo.png",
     "descripcion": "Un bocado de monte y sofisticación. Jugosas albóndigas de ciervo guisadas a fuego lento, coronadas con el inconfundible aroma de la tartufata. Descansan sobre una sedosa parmentier de zanahoria que aporta el contrapunto dulce perfecto, y se terminan con unos delicados crujientes de remolacha que añaden textura y un toque terroso."
   },
   {
@@ -81,7 +81,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "divertimento",
-    "foto": "placeholder.jpg",
+    "foto": "Gilda.png",
     "descripcion": "El aperitivo ideal para despertar el paladar. Nuestra visión del clásico pintxo, elaborada con aceituna carnosa, una anchoa de excelente calidad y el toque exacto de acidez de la piparra, todo bañado en aceite de oliva virgen extra"
   },
   {
@@ -183,7 +183,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": false,
     "categoria": "principal",
-    "foto": "placeholder.jpg",
+    "foto": "Albondigas de Ciervo.png",
     "descripcion": "Un bocado de monte y sofisticación. Ocho jugosas albóndigas de ciervo guisadas a fuego lento, coronadas con el inconfundible aroma de la tartufata. Descansan sobre una sedosa parmentier de zanahoria que aporta el contrapunto dulce perfecto, y se terminan con unos delicados crujientes de remolacha que añaden textura y un toque terroso."
   },
   {
