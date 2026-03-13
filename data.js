@@ -25,7 +25,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": false,
     "categoria": "divertimento",
-    "foto": "placeholder.jpg",
+    "foto": "crujiente de bacalao.png",
     "descripcion": "Inspirados en la receta histórica del recetario manchego, elaboramos esta suave crema de bacalao desalado y pimientos del piquillo. Para aportar ligereza y un contraste de texturas a la elaboración tradicional —que originalmente se ligaba con puré de patata—, servimos este bocado en el interior de un delicado y crujiente pan suflado"
   },
   {
@@ -52,7 +52,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": false,
     "categoria": "divertimento",
-    "foto": "placeholder.jpg",
+    "foto": "Gemini_Generated_Image_58w37d58w37d58w3.png",
     "descripcion": "Un homenaje al mar con raíces tradicionales. Delicado lomo de sardina finamente marinado, reposado sobre un suave y sedoso ajoblanco de almendras. Una combinación perfecta donde la frescura y el matiz afrutado de la crema equilibran a la perfección la intensidad del pescado azul."
   },
   {
@@ -126,7 +126,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "entrante",
-    "foto": "placeholder.jpg",
+    "foto": "Ensaladilla.png",
     "descripcion": "Nuestra visión de un clásico imprescindible. Una ensaladilla cremosa y suave, elaborada al estilo tradicional y ligada a la perfección. La elevamos coronándola con jugosas y tiernas láminas de ventresca de atún de primera calidad, terminando el plato con frescos microbrotes que aportan el contraste y frescor ideal"
   },
   {
@@ -154,7 +154,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "entrante",
-    "foto": "placeholder.jpg",
+    "foto": "ensalala de perdiz.png",
     "descripcion": "Un clásico toledano reinventado en clave de frescor. Nuestra jugosa perdiz desmigada se corona con una sedosa emulsión de su propio escabeche, aportando una acidez elegante y envolvente. La acompañamos de tomates cherry, la chispa de la cebolla y el toque herbáceo de la menta para equilibrar cada bocado. (Nota: Al ser caza 100% silvestre, ocasionalmente puede contener algún perdigón)"
   },
   {
@@ -167,7 +167,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": false,
     "categoria": "entrante",
-    "foto": "placeholder.jpg",
+    "foto": "Callos.png",
     "descripcion": "Un clásico reconfortante elaborado a fuego lento. Callos tradicionales con su característica textura melosa, acompañados de chorizo y morcilla en un guiso profundo, trabado y ligeramente especiado"
   },
   {
@@ -199,7 +199,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "principal",
-    "foto": "placeholder.jpg",
+    "foto": "Arroz de Changurro.png",
     "descripcion": "Un extraordinario 'mar y montaña' que une el Cantábrico con nuestra tierra. Arroz meloso trabado a la perfección con la delicada carne del changurro y el inconfundible aroma del azafrán manchego. Lo rematamos con unos trazos de una sorprendente salsa americana de morcilla, que aporta una profundidad, un carácter y un umami inigualables. Pura sedosidad."
   },
   {
@@ -230,7 +230,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "principal",
-    "foto": "placeholder.jpg",
+    "foto": "Steak Tartar.png",
     "descripcion": "Pura devoción carnívora. Seleccionamos la mejor carne de Wagyu para elaborar un steak tartar clásico, cortado a cuchillo y aderezado con maestría. Lo servimos sobre un tuétano asado en su propio hueso, cuya temperatura y cremosidad natural se funden con la frescura de la carne. Acompañado de pan de carasau para mezclar y disfrutar de una explosión de umami sin igual"
   },
   {
@@ -246,7 +246,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "principal",
-    "foto": "placeholder.jpg",
+    "foto": "Presa Iberica.png",
     "descripcion": "Pura intensidad y contrastes. Jugosa presa ibérica finamente adobada, bañada en un brillante y profundo jugo de café con setas shiitake que aporta un umami irresistible. Para equilibrar la fuerza de la carne, descansa sobre un suave hummus que añade un toque terroso y una textura sedosa, cerrando un círculo de matices tostados perfectos"
   },
   {
@@ -260,7 +260,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": true,
     "categoria": "principal",
-    "foto": "placeholder.jpg",
+    "foto": "Cochinillo.png",
     "descripcion": "El dominio absoluto de la técnica tradicional. Lingote de cochinillo deshuesado y confitado a baja temperatura para lograr una carne que se funde en el paladar, coronado por una piel dorada y extremadamente crujiente. Lo acompañamos con su propio jugo reducido, intense y brillante, y un delicado juego de texturas de berenjena que equilibra cada bocado."
   },
   {
@@ -287,7 +287,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": false,
     "opciones_sin_gluten": false,
     "categoria": "principal",
-    "foto": "placeholder.jpg",
+    "foto": "Bacalao en Témpura.png",
     "descripcion": "Un juego de texturas inmejorable. El crujido extremo y sin grasa de la tempura da paso a la melosidad del bacalao. El fondo ahumado del tiznao abraza el pescado, mientras que la emulsión aporta destellos herbáceos que desgrasan y limpian el paladar."
   },
   {
@@ -345,7 +345,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": "Vegetariano",
     "opciones_sin_gluten": true,
     "categoria": "postre",
-    "foto": "placeholder.jpg",
+    "foto": "Ruibarbo.jpeg",
     "descripcion": "Un final de comida ligero y sorprendente. El ruibarbo, con su característica acidez, se presenta confitado y acompañado de un delicado helado de rosas. El conjunto se completa con una original 'tierra de leche' y yogur, que aportan una textura crujiente y un contrapunto cremoso"
   },
   {
@@ -390,7 +390,7 @@ window.menuData = [
     "opciones_veganas_vegetarianas": "Vegetariano",
     "opciones_sin_gluten": false,
     "categoria": "postre",
-    "foto": "placeholder.jpg",
+    "foto": "Cúpula Chocolate.jpeg",
     "descripcion": "Una experiencia inmersiva para los amantes del cacao. Bajo una brillante cúpula de chocolate negro , se esconde un corazón fundente que armoniza con el frescor ácido de las frambuesas. Presentado sobre un escenario de texturas que incluye tierra de chocolate y frutos secos, este postre es un paseo sensorial por un bosque de sabores intensos"
   }
 ];
